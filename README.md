@@ -41,11 +41,11 @@ jupyter notebook
 ```
 Depois abra o arquivo:
 
-notebooks/flight_delay_analysis.ipynb
+- notebooks/flight_delay_analysis.ipynb
 
 Execute as células em ordem, ou use a opção:
 
-Kernel > Restart & Run All
+- Kernel > Restart & Run All
 
 ## Modelos utilizados
 
