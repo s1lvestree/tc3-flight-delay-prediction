@@ -36,9 +36,9 @@ pip install -r requirements.txt
 ## Execução do notebook
 
 Inicie o Jupyter Notebook:
-
+``` bash
 jupyter notebook
-
+```
 Depois abra o arquivo:
 
 notebooks/flight_delay_analysis.ipynb
