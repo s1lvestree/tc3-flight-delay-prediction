@@ -4,6 +4,7 @@ Notebook para prever atrasos em voos.
 
 ## Dataset
 Link para baixar daset flights.csv: https://drive.google.com/drive/folders/1aS7exW5N0qq1uIxvIBcAfc18OHojOMjj?usp=sharing
+
 Colocar o .csv baixado na pasta data do reposítório clonado.
 
 Dataset de voos contendo informações como:
@@ -14,6 +15,35 @@ Dataset de voos contendo informações como:
 - horário de partida
 - distância do voo
 - atraso na chegada
+
+## Preparar ambiente
+Crie e ative um ambiente virtual:
+
+Linux / macOS
+python3 -m venv venv
+source venv/bin/activate
+
+Windows
+python -m venv venv
+venv\Scripts\activate
+
+Instale as dependências:
+
+pip install -r requirements.txt
+
+## Execução do notebook
+
+Inicie o Jupyter Notebook:
+
+jupyter notebook
+
+Depois abra o arquivo:
+
+notebooks/flight_delay_analysis.ipynb
+
+Execute as células em ordem, ou use a opção:
+
+Kernel > Restart & Run All
 
 ## Modelos utilizados
 
