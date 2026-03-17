@@ -3,7 +3,7 @@
 Notebook para prever atrasos em voos.
 
 ## Dataset
-Link para baixar daset flights.csv: https://drive.google.com/drive/folders/1aS7exW5N0qq1uIxvIBcAfc18OHojOMjj?usp=sharing
+Link para baixar dataset flights.csv: https://drive.google.com/drive/folders/1aS7exW5N0qq1uIxvIBcAfc18OHojOMjj?usp=sharing
 
 Colocar o .csv baixado na pasta data do reposítório clonado.
 
