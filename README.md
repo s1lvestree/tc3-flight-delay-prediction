@@ -19,18 +19,20 @@ Dataset de voos contendo informações como:
 ## Preparar ambiente
 Crie e ative um ambiente virtual:
 
-Linux / macOS
+# Linux / macOS
+``` bash
 python3 -m venv venv
 source venv/bin/activate
-
+```
 Windows
+``` bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 Instale as dependências:
-
+``` bash
 pip install -r requirements.txt
-
+```
 ## Execução do notebook
 
 Inicie o Jupyter Notebook:
