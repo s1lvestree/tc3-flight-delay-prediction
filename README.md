@@ -39,8 +39,8 @@ jupyter notebook
 ```
 Depois abra o arquivo:
 
-- notebooks/flight_delay_analysis.ipynb
-
+-  tc3.ipynb
+  
 Execute as células em ordem, ou use a opção:
 
 - Kernel > Restart & Run All
